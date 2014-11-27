@@ -2,9 +2,21 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+  float: right;
 }
 
 h1 {
-
+  color: #08088A;
+}
+h2 {
+  color: #DF0101;
+}
+.eslrTitle {
+  font-weight: bold;
+  font-family: Impact;
+}
+a:hover {
+  background-color: white;
+  font-weight: bold;
+  border 1px: blue;
 }
