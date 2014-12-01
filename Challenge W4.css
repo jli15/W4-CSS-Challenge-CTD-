@@ -1,0 +1,29 @@
+
+#eagleLogo {
+
+  float: right;
+}
+
+h1 {
+
+  color: #08088A;
+    font-size: 30 px;
+}
+h2 {
+  color: #DF0101;
+}
+.eslrTitle {
+  font-weight: bold;
+    color: #2E9AFE;
+  font-family: Impact;
+}
+a:hover {
+    color: white;
+background-color: blue;
+  font-weight: bold;
+  border: 1px blue;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
