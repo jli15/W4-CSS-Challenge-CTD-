@@ -1,10 +1,33 @@
 @charset "UTF-8";
 /* Sample CSS Document */
 
-#eagleLogo {
 
+
+body {
+    background: -webkit-linear-gradient(#0066FF, white);
+}
+
+#eagleLogo {
+  float: right;
 }
 
 h1 {
-    color: blue;
+  color: white;
+    border 1px: black;
+}
+h2 {
+  color: #DF0101;
+}
+.eslrTitle {
+  font-weight: bold;
+  font-family: Impact;
+}
+a:hover {
+  background-color: -webkit-linear-gradient(#0066FF, white);
+  font-weight: bold;
+  border 1px: blue;
+}
+
+a {
+    color: white;    
 }
